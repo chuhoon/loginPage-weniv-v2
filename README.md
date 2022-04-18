@@ -2,7 +2,7 @@
 
 피그마를 이용한 간단한 로그인폼 제작
 
-[배포링크:elephant:]()
+[배포링크:elephant:](https://chuhoon.github.io/loginPage-weniv-v2/)
 
 ![위니브로그인폼](https://user-images.githubusercontent.com/68219145/163784300-784e2c20-3357-4446-824e-191c765611cc.PNG)
 
