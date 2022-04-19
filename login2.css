@@ -199,10 +199,10 @@ a.btn1 {
 }
 
 a.btn1::before {
-  content: url(images/Google__G__Logo\ 1.png);
+  content: url(images/css_sprites.png);
   position: absolute;
-  top: 12px;
-  left: 11px;
+  top: -48px;
+  left: 0px;
 }
 
 a.btn2 {
@@ -210,10 +210,10 @@ a.btn2 {
 }
 
 a.btn2::before {
-  content: url(images/facebook.png);
+  content: url(images/css_sprites.png);
   position: absolute;
-  top: 12px;
-  left: 11px;
+  top: 0px;
+  left: 0px;
 }
 
 a.btn3 {
@@ -221,10 +221,10 @@ a.btn3 {
 }
 
 a.btn3::before {
-  content: url(images/naver-logo.png);
+  content: url(images/css_sprites.png);
   position: absolute;
-  top: 12px;
-  left: 11px;
+  top: -144px;
+  left: 0px;
 }
 
 a.btn4 {
@@ -232,8 +232,8 @@ a.btn4 {
 }
 
 a.btn4::before {
-  content: url(images/message-circle.png);
+  content: url(images/css_sprites.png);
   position: absolute;
-  top: 12px;
-  left: 11px;
+  top: -95px;
+  left: 0px;
 }

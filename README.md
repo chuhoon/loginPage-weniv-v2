@@ -33,3 +33,9 @@
 3. reset css 선정
 4. 위에서부터 차례로 css 달기
 5. css class 지정 꼼꼼하게 해주기
+
+### 수정 2022-04-19
+
+[CSS Sprites-generator](https://www.toptal.com/developers/css/sprite-generator/)를 사용해 버튼 이미지 수정
+
+-> 여러가지의 이미지를 하나의 이미지 파일안에 배치하여 이미지로드 부담을 줄이는 방법이다.
