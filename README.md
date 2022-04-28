@@ -4,9 +4,7 @@
 
 [배포링크:elephant:](https://chuhoon.github.io/loginPage-weniv-v2/)
 
-![위니브로그인폼](https://user-images.githubusercontent.com/68219145/163784300-784e2c20-3357-4446-824e-191c765611cc.PNG)
-
-![위니브로그인폼2](https://user-images.githubusercontent.com/68219145/163784304-32a6b2dc-ccc2-4950-88fa-97f7e7d19a3b.PNG)
+![loginv2](https://user-images.githubusercontent.com/68219145/165705937-61a1005c-1e79-433c-a1eb-733d7bf75906.gif)
 
 ### 소개
 
